@@ -2,9 +2,13 @@
 
 This is a Blender add-on that adds a custom render engine. It is at the moment very basic but it can already display GLSL shaders like raymarching signed distance field fractals as seen in [ShaderToy](https://www.shadertoy.com/ "ShaderToy").  
 
+![](./media/cavern.png)
+
 ## Basic usage
 
-At the moment, you can explore the examples and play with parameters.
+At the moment, you can explore the examples and play with parameters. Download the repository, install the add-on archive from file in Blender and open the `shader.blend` to have a scene ready.
+
+![](./media/city.png)
 
 ## Write your own shader
 
